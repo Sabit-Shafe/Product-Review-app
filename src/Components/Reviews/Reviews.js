@@ -6,7 +6,7 @@ import { Review } from '../Review/Review'
 export const Reviews = () => {
    const[reviews, setReviews]= useReviews()
   return (
-    <div className='grid grid-cols-3 gap-3 px-3 py-3'>
+    <div className='grid lg:grid-cols-3 gap-3 px-3 py-3 md:grid-cols-2'>
       {
         reviews.map(review=><Review
         key={review.id}

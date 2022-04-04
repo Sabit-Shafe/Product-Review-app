@@ -9,7 +9,7 @@ import { Reviews } from '../Reviews/Reviews'
 export const Home = () => {
   return (
     <div>
-      <div className='flex'>
+      <div className='lg:flex md:flex sm:flex-none '>
         <div className=''>
           <h1 className='text-green-500 font-serif font-large text-6xl py-5 px-9 '>Your Next Product <br></br>
             your best Product

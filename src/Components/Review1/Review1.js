@@ -10,7 +10,7 @@ export const Review1 = () => {
     let navigate = useNavigate();
     return (
         <div>
-            <div className='grid grid-cols-3 gap-3 px-3 py-3'>
+            <div className='grid lg:grid-cols-3 gap-3 px-3 py-3 md:grid-cols-2'>
                 {
                     reviews.slice(0, 3).map(review => <Review
                         key={review.id}
