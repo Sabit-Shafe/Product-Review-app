@@ -2,7 +2,6 @@
 #<h1>Live site link --</h1>
 
 
-https://metashopping.netlify.app/
 
 # <h1>Project specification </h1>
 
