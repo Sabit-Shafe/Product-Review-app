@@ -6,7 +6,7 @@ export const Review = (props) => {
     // console.log(props);
     return (
         <div >
-            <div className="mx-auto max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+            <div className="mx-auto max-w-sm bg-neutral-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
                 <a href="#">
                     <img className="p-8 rounded-t-lg" src={review.image} alt="product image" />
                 </a>

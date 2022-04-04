@@ -1,3 +1,20 @@
+
+#<h1>Live site link --</h1>
+
+
+https://metashopping.netlify.app/
+
+# <h1>Project specification </h1>
+
+* In this Project working with react js.
+* UI design by tailwind css and responsive.
+* Uses react-router to navigate specific page without reload.
+* Implement react-charts in Dashboard section
+* Using Custom hook.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
