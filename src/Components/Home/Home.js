@@ -1,5 +1,6 @@
 
 import React from 'react'
+import { Review1 } from '../Review1/Review1'
 import { Reviews } from '../Reviews/Reviews'
 // import {HomeReviews} from '../HomeReviews/HomeReviews'
 
@@ -26,7 +27,9 @@ export const Home = () => {
       </div>
       <div>
         {/* <HomeReviews></HomeReviews> */}
-        <Reviews></Reviews>
+        {/* <Reviews></Reviews> */}
+        <Review1></Review1>
+        
 
       </div>
     </div>
