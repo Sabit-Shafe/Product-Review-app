@@ -3,7 +3,7 @@ import React from 'react'
 export const Review = (props) => {
     const { review } = props;
     const { name, image, ReviewDetials, } = props;
-    console.log(props);
+    // console.log(props);
     return (
         <div >
             <div className="mx-auto max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">

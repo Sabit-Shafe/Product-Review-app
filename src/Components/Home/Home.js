@@ -2,9 +2,7 @@
 import React from 'react'
 import { Review1 } from '../Review1/Review1'
 import { Reviews } from '../Reviews/Reviews'
-// import {HomeReviews} from '../HomeReviews/HomeReviews'
 
-// import { Container, Grid, Typography, Button} from "@mui/material";
 
 export const Home = () => {
   return (
@@ -26,8 +24,6 @@ export const Home = () => {
         </div>
       </div>
       <div>
-        {/* <HomeReviews></HomeReviews> */}
-        {/* <Reviews></Reviews> */}
         <Review1></Review1>
         
 
